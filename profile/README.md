@@ -1,6 +1,8 @@
 # Web Development
 
-This page briefly describes the course content. Each folder above represents a Top Level Module of the curriculum. Each TLM Contains in turn a set of folder to represent Submodules, which contains all live coding sessions in addition to the topics that were taught, documented using PDF and readme files.
+All lessons will be kept in this [Lessons](https://github.com/FbW-WD-23-E05-B/Lessons) Repository.
+
+This page briefly describes the course content.
 
 ## Basic Modules
 
