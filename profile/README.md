@@ -1,4 +1,4 @@
-# Web Development
+# WD23-E05-B Class Repository
 
 All lessons will be kept in this [Lessons](https://github.com/FbW-WD-23-E05-B/Lessons) Repository.
 
